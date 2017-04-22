@@ -18,7 +18,7 @@ public class Layout
  //first comment 1.1
     //git comment 1.3 added
     @Property
-    private String pageName2;
+    private String pageName;
 
     @Property
     @Parameter(defaultPrefix = BindingConstants.LITERAL)
